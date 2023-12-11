@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         MOS
+// @name         Browser for MOS 12
 // @version      1
-// @description
+// @description  utility extension
 // @author       Департамент образования г. Москвы
 // @namespace    https://mos.ru
 // @match        https://*/*
